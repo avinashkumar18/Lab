@@ -1,1 +1,1 @@
-# ML_Lab
+This repo contains all assignments of my academics. Implementation of various packages of python are done and saved as .ipynb in most cases. One can open and run my code by just opening it in their colab account for some of the files
